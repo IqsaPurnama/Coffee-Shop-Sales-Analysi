@@ -1,16 +1,17 @@
 # Project Machine Learning: Prediksi Kategori Produk Kedai Kopi
 
-Nama: Iqsa Purnama Saputra
-NIM: [241011400827]
-Program Studi: Teknik Informatika, Universitas Pamulang
-Mata Kuliah: Machine Learning
+**Nama:** Iqsa Purnama Saputra
+**NIM:** [241011400827]
+**Program Studi:** Teknik Informatika, Universitas Pamulang
+**Mata Kuliah:** Machine Learning
 
 ## Deskripsi
 Project ini mengerjakan tahapan Machine Learning dari pengenalan sampai
 Data Splitting menggunakan data transaksi penjualan kedai kopi.
 
 ## Dataset
-- **Sumber:** Maven Analytics (Maven Roasters, Coffee Shop Sales), [isi URL halaman dataset]
+- **Sumber:** Kaggle, "Coffee Shop Sales Analysis" oleh divu2001
+  https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis
 - **Lisensi / ketentuan:** [isi sesuai halaman sumber]
 - **Isi:** 149.116 baris, 18 kolom, transaksi 3 toko, Januari-Juni 2023
 - **Catatan:** sebagian kolom (Total_Bill, Size, Month Name, Day Name, Hour, Month, Day of Week) adalah kolom turunan pada file yang digunakan.
