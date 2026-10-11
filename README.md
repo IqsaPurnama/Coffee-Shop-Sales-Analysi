@@ -1,9 +1,9 @@
 # Project Machine Learning: Prediksi Kategori Produk Kedai Kopi
 
-**Nama:** Iqsa Purnama Saputra
-**NIM:** [isi NIM]
-**Program Studi:** Teknik Informatika, Universitas Pamulang
-**Mata Kuliah:** Machine Learning
+Nama: Iqsa Purnama Saputra
+NIM: [241011400827]
+Program Studi: Teknik Informatika, Universitas Pamulang
+Mata Kuliah: Machine Learning
 
 ## Deskripsi
 Project ini mengerjakan tahapan Machine Learning dari pengenalan sampai
