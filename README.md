@@ -22,14 +22,12 @@ Data Splitting menggunakan data transaksi penjualan kedai kopi.
 4. Data Transformation (penentuan fitur dan target, One-Hot Encoding)
 5. EDA & ExDA (distribusi, korelasi, visualisasi)
 6. Data Splitting (80:20, random_state=42, stratify)
+7. Modeling (Logistic Regression, Decision Tree, Random Forest)
+8. Deployment & Monitoring (simpan model, simulasi prediksi, logging)
 
 ## Fitur dan Target
 - **Target (y):** product_category
 - **Fitur (X):** store_location, transaction_qty, Size, Hour, Month, Day of Week
-
-## Hasil Data Splitting
-- Data latih: 119.292 baris
-- Data uji: 29.824 baris
 
 ## Struktur Folder
 - `project_ml.ipynb`: notebook pengerjaan
