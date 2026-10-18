@@ -12,7 +12,6 @@ Data Splitting menggunakan data transaksi penjualan kedai kopi.
 ## Dataset
 - **Sumber:** Kaggle, "Coffee Shop Sales Analysis" oleh divu2001
   https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis
-- **Lisensi / ketentuan:** [isi sesuai halaman sumber]
 - **Isi:** 149.116 baris, 18 kolom, transaksi 3 toko, Januari-Juni 2023
 - **Catatan:** sebagian kolom (Total_Bill, Size, Month Name, Day Name, Hour, Month, Day of Week) adalah kolom turunan pada file yang digunakan.
 
