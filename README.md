@@ -42,3 +42,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Lalu buka `project_ml.ipynb` dan jalankan semua cell (Kernel → Restart & Run All).
+
+## Refrensi
+• Gooljar, S., Manohar, K., & Hosein, P. (2023). Performance Evaluation and Comparison of a New Regression Algorithm. Proceedings of the 12th International Conference on Data Science, Technology and Applications (DATA), hlm. 524–531. Membandingkan algoritma baru dengan Decision Tree, Random Forest, k-NN, dan XGBoost memakai MAE.
+• Studi 2025 di International Journal of Computing Sciences Research (IJCSM), vol. 5 no. 4, pada dataset Boston Housing. Gradient Boosting terbaik dengan R² 92, dibanding Random Forest 89,9 dan Ridge 88,3.
+• Studi 2026 di RECIMA21 (v7.n6), Comparative Analysis of Prediction Algorithms on Tabular Data. Random Forest mencapai R² sekitar 0,71 versus regresi linear sekitar 0,16.
