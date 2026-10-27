@@ -43,7 +43,9 @@ jupyter notebook
 ```
 Lalu buka `project_ml.ipynb` dan jalankan semua cell (Kernel → Restart & Run All).
 
-## Refrensi
-** Gooljar, S., Manohar, K., & Hosein, P. (2023). Performance Evaluation and Comparison of a New Regression Algorithm. Proceedings of the 12th International Conference on Data Science, Technology and Applications (DATA), hlm. 524–531. Membandingkan algoritma baru dengan Decision Tree, Random Forest, k-NN, dan XGBoost memakai MAE.**
-** Studi 2025 di International Journal of Computing Sciences Research (IJCSM), vol. 5 no. 4, pada dataset Boston Housing. Gradient Boosting terbaik dengan R² 92, dibanding Random Forest 89,9 dan Ridge 88,3.**
-** Studi 2026 di RECIMA21 (v7.n6), Comparative Analysis of Prediction Algorithms on Tabular Data. Random Forest mencapai R² sekitar 0,71 versus regresi linear sekitar 0,16.**
+## Referensi
+1. Gooljar, S., Manohar, K., & Hosein, P. (2023). Performance Evaluation and Comparison of a New Regression Algorithm. *Proceedings of the 12th International Conference on Data Science, Technology and Applications (DATA)*, 524–531. https://www.scitepress.org/Documents/2023/121354
+
+2. Aljuboori, A., & Abdulrazzq, M. M. A. (2024). Enhancing Accuracy in Predicting Continuous Values through Regression. *Iraqi Journal for Computer Science and Mathematics*, 5(4), Article 25. https://doi.org/10.52866/2788-7421.1227
+
+3. Preuss, E., Argenta, Í. P., Franciscatto, R., & Pertile, S. de L. (2026). Análise comparativa de algoritmos de predição em dados tabulares: regressão linear, Random Forest, Gradient Boosting e redes neurais MLP. *RECIMA21*, 7, e768276. https://doi.org/10.47820/recima21.v7i7.8276
